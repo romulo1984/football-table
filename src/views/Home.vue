@@ -1,8 +1,8 @@
 <template>
   <div class="home">
     <FootballTable
-    league="30"
-    year="2019"
+    league="52"
+    year="2018"
     endpoint="http://localhost:3000/"/>
   </div>
 </template>

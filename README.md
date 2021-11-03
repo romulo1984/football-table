@@ -11,18 +11,20 @@
 ## Usage
 
 - **`<script src="https://unpkg.com/vue"></script>`**: Include the Vue library.
-- **`<script src="./football-table.min.js"></script>`**: Include the component file.
+- **`<script src="https://romulo1984.github.io/football-table/football-table.min.js"></script>`**: Include the component file.
 - **`<football-table></football-table>`**: Include the component like any other HTML component.
-- **`year="2020" league="34"`**: Pass the values to the component via attributes.
+- **`year="2019" league="30"`**: Pass the values to the component via attributes.
 
+
+### Example
 ```html
 <!--The vue is not incorporated by the web component, so it is necessary to import it. -->
 <script src="https://unpkg.com/vue"></script>
 <script src="https://romulo1984.github.io/football-table/football-table.min.js"></script>
 
 <football-table
-    year="2020"
-    league="34"
+    year="2019"
+    league="30"
     show-title="false"
     endpoint="http://localhost:3000/">
 </football-table>
@@ -69,6 +71,7 @@ It works with async components as well - you can pass an async component factory
 - **Code 43**: Copa da Inglaterra
 - **Code 44**: Copa da Itália
 - **Code 48**: Copa do Brasil
+- **Code 52**: Copa do Mundo
 - **Code 54**: Copa do Mundo Feminina
 - **Code 55**: Copa do Nordeste
 - **Code 56**: Copa do Rei
