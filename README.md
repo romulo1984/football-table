@@ -1,6 +1,4 @@
-# Football Table Web Components ![GH Pages Build & Deploy](https://github.com/romulo1984/football-table/workflows/GH%20Pages%20Build%20&%20Deploy/badge.svg)
-
-> Web component repository for use in Conceptho web projects
+# Football Table Web Component ![GH Pages Build & Deploy](https://github.com/romulo1984/football-table/workflows/GH%20Pages%20Build%20&%20Deploy/badge.svg)
 
 ![](./screen-capture.png)
 
